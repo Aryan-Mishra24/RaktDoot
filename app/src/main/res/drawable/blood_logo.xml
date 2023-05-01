@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#00000000"/>
+            <size android:height="140dp"
+                android:width="140dp"/>
+            <padding android:top="15dp"/>
+            <stroke android:width="2dp"
+                android:color="#cd1119"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/img_blood"
+        android:height="100dp"
+        android:gravity="center"
+        android:width="100dp"/>
+
+
+
+
+</layer-list>

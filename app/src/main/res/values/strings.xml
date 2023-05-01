@@ -1,0 +1,42 @@
+<resources>
+    <!-- <string name="app_name">रक्तदूत</string> -->
+    <string name="app_name">रक्तदेवदूत</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout</string>
+    <string name="btn_revoke_access">Sign in to another acount</string>
+    <string name="server_client_id">15364412819-bakevu7qji0kmcgdtb9r81g471ese35j.apps.googleusercontent.com</string>
+    <string name="searchbydistance">List Of People</string>
+    <string name="title_activity_blood_main2">BloodMain2</string>
+    <string name="title_activity_search_distance">SearchDistance</string>
+    <string name="title_activity_main2">रक्तदूत</string>
+    <string name="title_activity_search_blood">SearchBlood</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="your_string_here"><u>csvtu2005@gmail.com</u>.
+    </string>
+    <string name="blood_logo">blood_logo</string>
+    <string name="vaktperakt">वक्त पे रक्त</string>
+    <string name="raktdoot">रक्तदूत</string>
+    <string name="click_here_to_register">Click here to continue</string>
+    <string name="csvtu_logo">csvtu_logo</string>
+    <string name="sign_in">Sign In</string>
+
+    <string-array name="bloodgrps">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+</resources>
+

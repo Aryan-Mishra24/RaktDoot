@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/idCVCOurseItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:orientation="vertical"
+        android:padding="4dp">
+
+        <!--Textview for displaying our Course Name-->
+        <TextView
+            android:id="@+id/nm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Fullname: "
+            android:textColor="@color/md_theme_light_shadow" />
+
+        <!--Textview for displaying our Course Duration-->
+        <TextView
+            android:id="@+id/mob"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Mobile No. "
+            android:textColor="@color/md_theme_light_shadow" />
+
+        <!--Textview for displaying our Course Description-->
+        <TextView
+            android:id="@+id/bld"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Description"
+            android:textColor="@color/md_theme_light_shadow" />
+
+        <TextView
+            android:id="@+id/aggg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Description"
+            android:textColor="@color/md_theme_light_shadow" />
+
+        <TextView
+            android:id="@+id/idTVCourseDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Description"
+            android:textColor="@color/md_theme_light_shadow" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170783210746",
+    "project_id": "rakt-kosh-1b2d4",
+    "storage_bucket": "rakt-kosh-1b2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170783210746:android:04115566ddc6f081451d43",
+        "android_client_info": {
+          "package_name": "com.android.csvtu.raktdevdoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170783210746-1vh33ndu3sf0el5rhfa6q9l8j2r5b27i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9cnNjlR3qqE1H6_5eb06s1dkDEBIwYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170783210746-1vh33ndu3sf0el5rhfa6q9l8j2r5b27i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
