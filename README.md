@@ -40,4 +40,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any queries or suggestions, please contact us at raktdoot@csvtu.ac.in.
+For any queries or suggestions, please contact us at raktdoot@csvtu.ac.in
