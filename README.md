@@ -57,4 +57,4 @@ We welcome contributions to the Raktdoot app. Please feel free to fork the repos
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
 
 ## Contact
-For any queries or suggestions, please contact us at [raktdoot@csvtu.ac.in](mailto:raktdoot@csvtu.ac.in).
+For any queries or suggestions, please contact us at [raktdoot@csvtu.ac.in](mailto:raktdoot@csvtu.ac.in)
